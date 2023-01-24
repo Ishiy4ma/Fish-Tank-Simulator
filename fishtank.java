@@ -29,7 +29,7 @@ class FishTank {
     }
 }
 
-public class Main {
+public class fishtank {
     public static void main(String[] args) {
         FishTank tank = new FishTank();
         tank.addFish(new Fish("Goldfish", 15));
