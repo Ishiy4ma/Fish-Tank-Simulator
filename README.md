@@ -8,4 +8,4 @@ In this example, I have used ArrayList to store the fishes in the tank but you c
 
 To display the Fish tank graphically, you can use Java's built-in graphics libraries such as AWT or Swing to create a GUI that displays the fish tank and allows the user to interact with it.
 
-This is also a basic example and you can add more complexity and functionality as per your requirement.
+This is a basic example and you can add more complexity and functionality as per your requirements.
